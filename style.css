@@ -11,21 +11,6 @@
     top: 1px;
 }
 
-.btn-custom {
-  background-color: blue;
-  color: #fff;
-  font-weight: bold;
-  border: none;
-  padding: 10px 20px;
-  border-radius: 20px;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
 
-.btn-custom:hover {
-  background-color: #ddd;
-}
 
-.collapse {
-  transition: height 0.3s ease;
-}
+
