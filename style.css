@@ -25,3 +25,7 @@
 .btn-custom:hover {
   background-color: #ddd;
 }
+
+.collapse {
+  transition: height 0.3s ease;
+}
