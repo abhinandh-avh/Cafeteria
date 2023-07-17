@@ -10,3 +10,18 @@
     left: 268px;
     top: 1px;
 }
+
+.btn-custom {
+  background-color: #f1f1f1;
+  color: #333;
+  font-weight: bold;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn-custom:hover {
+  background-color: #ddd;
+}
